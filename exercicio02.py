@@ -5,7 +5,7 @@ subtracao= (numero1-numero2)
 multiplicacao= (numero1*numero2)
 divisao= (numero1/numero2)
 
-print(f"{soma} \n"
-      f"{subtracao}\n"
-      f"{divisao}\n"
-      f"{multiplicacao}")
+print(f"A soma de {numero1} + {numero2} = {soma} \n"
+      f"A subtração de {numero1} - {numero2} = {subtracao}\n"
+      f"A divisão de {numero1} / {numero2} = {divisao}\n"
+      f"A multiplicação de {numero1} * {numero2} = {multiplicacao}")
